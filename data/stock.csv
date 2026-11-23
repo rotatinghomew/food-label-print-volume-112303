@@ -1,0 +1,4 @@
+lot,plant,label,qty,held,available
+L1,A,old,280,40,2026-10-01
+L2,B,old,165,15,2026-10-01
+L3,A,shared,98,27,2026-10-02

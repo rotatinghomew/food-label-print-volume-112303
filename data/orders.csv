@@ -1,0 +1,4 @@
+order,plate,label,qty,starts,window_end,arrives,plant,status
+o1,P1,new,400,2026-10-03,2026-10-07,2026-10-09,A,开印
+o2,P1,shared,200,2026-10-05,2026-10-07,2026-10-09,B,备选
+o3,P2,shared,200,2026-10-07,2026-10-10,2026-10-12,B,备选

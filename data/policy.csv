@@ -1,0 +1,2 @@
+from_date,to_date,max_stockout_probability,max_unusable,transfer_days
+2026-10-01,2026-10-20,0.15,110,1
